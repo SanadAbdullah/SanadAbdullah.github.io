@@ -454,6 +454,14 @@ width: 98%;
 border: 7px solid crimson;
 z-index: -1;
 }
+#hello123 th, td {
+	font-size: 25px;
+	border: 2px solid crimson;
+}
+#hello123 th, td, table {
+	width: 80%;
+	
+}
 /* End About Section */
 
 /* Contact Section */
